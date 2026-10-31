@@ -1,0 +1,6 @@
+{
+  "appId": "com.miningecon.app",
+  "appName": "اقتصاد معدن",
+  "webDir": "www",
+  "android": { "backgroundColor": "#f4f1ea" }
+}
